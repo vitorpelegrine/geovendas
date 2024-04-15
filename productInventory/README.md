@@ -11,7 +11,7 @@ Atualização e criação de produtos de acordo com JSON enviado
 
 Clonar o repositório:
 
-git clone https://github.com/username/repository.git
+git clone https://github.com/vitorpelegrine/geovendas.git
 
 Foi Utilizado Laragon para o desenvolvimento
 
